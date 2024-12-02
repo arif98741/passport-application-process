@@ -18,8 +18,9 @@
 <!-- TOC -->
 এই ডকমেন্টটি তৈরি করা হয়েছে যারা নতুন কিংবা রিনিউ করতে চাচ্ছেন ই-পাসপোর্ট তাঁদের জন্য। আশা করি ডকুমেনটি আপনার অনেক প্রশ্নের উত্তর দিয়ে দিবে। এছাড়াও পুরো লিখাটি ডকুমেন্ আকারে ডাউনলোড করতে চাইলে
 [ক্লিক করুন](https://raw.githubusercontent.com/arif98741/passport-application-process/refs/heads/master/Passport%20Application%20Process.pdf)
-Select Vendor From Console <br>
-<img src="https://raw.githubusercontent.com/arif98741/passport-application-process/master/img/e-passport-image.jpg" style="width: 60%; height: 60%">
+
+<img src="https://raw.githubusercontent.com/arif98741/passport-application-process/refs/heads/master/img/e-passport-image.jpg" style="width: 60%; height: 60%">
+
 # পাসপোর্ট আবেদন পরিচিতি
 বিদেশ যাত্রা, পড়াশোনা, ভ্রমণ, চিকিৎসা এবং নানা কারণে আমাদের পাসপোর্টের প্রয়োজন হয়। পাসপোর্ট করতে গিয়ে হয়রানির শিকার হয়নি এমন লোক খুজে পাওয়া কঠিন। বর্তমানে দালালের দৌরাত্ম্য অনেকাংশেই কমে গিয়েছে এবং এর ফলে ই-পাসপোর্ট হাত পাওয়াটা অনেক সহজতর হয়ে গিয়েছে। একটু চোখ কান খোলা রাখলে এবং কিছু তথ্য জানা থাকলে আপনি নিজেই করে ফেলতে পারবেন আপনার স্বপ্নের ই-পাসপোর্ট। এই লেখাতে পুরো e-passport করার প্রক্রিয়া আপনাদের সাথে শেয়ার করব। ধৈর্য্য ধরে প্রথম থেকে শেষ পর্যন্ত ফলো করুন। আশা করি আপনি আপনার পাসপোর্ট করার যাত্রা শুরুর পূর্বে অনেক বিষয় সম্পর্কে পরিস্কার ধারণা নিতে পারবেন। 
 
